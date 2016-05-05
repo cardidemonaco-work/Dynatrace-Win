@@ -1,0 +1,11 @@
+D:\GitHub-FutureProjects\Host-Stats\Host-Stats\bin\Debug\Host-Stats.exe.config
+D:\GitHub-FutureProjects\Host-Stats\Host-Stats\bin\Debug\Host-Stats.exe
+D:\GitHub-FutureProjects\Host-Stats\Host-Stats\bin\Debug\Host-Stats.pdb
+D:\GitHub-FutureProjects\Host-Stats\Host-Stats\bin\Debug\Host-Stats.xml
+D:\GitHub-FutureProjects\Host-Stats\Host-Stats\obj\Debug\Host-Stats.vbprojResolveAssemblyReference.cache
+D:\GitHub-FutureProjects\Host-Stats\Host-Stats\obj\Debug\Host_Stats.Form1.resources
+D:\GitHub-FutureProjects\Host-Stats\Host-Stats\obj\Debug\Host_Stats.Resources.resources
+D:\GitHub-FutureProjects\Host-Stats\Host-Stats\obj\Debug\Host-Stats.vbproj.GenerateResource.Cache
+D:\GitHub-FutureProjects\Host-Stats\Host-Stats\obj\Debug\Host-Stats.exe
+D:\GitHub-FutureProjects\Host-Stats\Host-Stats\obj\Debug\Host-Stats.xml
+D:\GitHub-FutureProjects\Host-Stats\Host-Stats\obj\Debug\Host-Stats.pdb
